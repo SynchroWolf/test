@@ -1,11 +1,11 @@
 This is where we can write code :P !!!!!!!!
  class HelloAiden {
   public void main(String[Args]) {
-   int Aiden, Tylor=100000, Levi;
-    for(Aiden = 2; Aiden<Tylor;Aiden++) {
+   int Aiden, Tyler=100000, Levi;
+    for(Aiden = 2; Aiden<Tyler;Aiden++) {
      Levi = levi + 2;
      }
-     System.out.print(Levi + Aiden + Tylor)
+     System.out.print(Levi + Aiden + Tyler)
     }
    }
      
